@@ -14,4 +14,6 @@ Nombramos la carpeta "notes-app" e iniciamos el repositorio "npm init --yes"
 ->17:20 Instalamos nodemon, configuramos la carpeta de las vistas requiriendo path
 	requerimos y configuramos handlebars
 
-->23:46
+->23:46 urlencoded, methodOverride y express-session
+
+->26:45

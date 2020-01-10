@@ -9,4 +9,6 @@ Nombramos la carpeta "notes-app" e iniciamos el repositorio "npm init --yes"
 
 ->10:00 Creamos directorios y archivos del proyecto
 
-->13:47
+->13:47 Estructuramos el index js y ponemos en funcionamiento el servidor con express
+
+->17:20

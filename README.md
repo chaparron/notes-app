@@ -11,4 +11,7 @@ Nombramos la carpeta "notes-app" e iniciamos el repositorio "npm init --yes"
 
 ->13:47 Estructuramos el index js y ponemos en funcionamiento el servidor con express
 
-->17:20
+->17:20 Instalamos nodemon, configuramos la carpeta de las vistas requiriendo path
+	requerimos y configuramos handlebars
+
+->23:46

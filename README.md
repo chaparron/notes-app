@@ -7,4 +7,6 @@ Nombramos la carpeta "notes-app" e iniciamos el repositorio "npm init --yes"
 
 ->6:00 npm i express express-handlebars express-session method-override mongoose passport passport-local bcryptjs connect-flash
 
-->10:00
+->10:00 Creamos directorios y archivos del proyecto
+
+->13:47

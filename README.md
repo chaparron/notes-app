@@ -20,4 +20,7 @@ Nombramos la carpeta "notes-app" e iniciamos el repositorio "npm init --yes"
 		tiene que devolver un objeto router para que no de error al ejecutarse (aunque esté vacío de momento)	
 	creamos el script de nodemon
 
-->36:48 
+->36:48 apuntamos a public con los archivos estáticos
+	Configuramos database y lo requerimos desde inicializaciones
+
+->41:25

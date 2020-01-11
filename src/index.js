@@ -19,7 +19,7 @@ app.engine('.hbs', exphbs({
 app.set('view engine', '.hbs');
 
 //Middlewares
-app.use(expess.urlencoded({extended:false}));
+app.use(express.urlencoded({extended:false}));
 app.use(methodOverride('_method'));
 app.use(session({
     secret:'mysecretapp',
@@ -29,6 +29,9 @@ app.use(session({
 //Global variables
 
 //Routes
+app.use(require('./routes/index'));
+app.use(require('./routes/notes'));
+app.use(require('./routes/users'));
 
 //Static Files
 

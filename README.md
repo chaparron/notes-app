@@ -16,4 +16,8 @@ Nombramos la carpeta "notes-app" e iniciamos el repositorio "npm init --yes"
 
 ->23:46 urlencoded, methodOverride y express-session
 
-->26:45
+->26:45 creamos los archivos rutas y los ponemos en routes en el index (index, notes y users)
+		tiene que devolver un objeto router para que no de error al ejecutarse (aunque esté vacío de momento)	
+	creamos el script de nodemon
+
+->36:48 

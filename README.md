@@ -23,4 +23,9 @@ Nombramos la carpeta "notes-app" e iniciamos el repositorio "npm init --yes"
 ->36:48 apuntamos a public con los archivos estáticos
 	Configuramos database y lo requerimos desde inicializaciones
 
-->41:25
+->41:25 Creamos el about, index y en carpeta users el signin y el signup hbs y los renderizamos en routes
+	En el main creamos la plantilla dónde dejamos el body para modificar lo demás
+
+->49:45 
+
+mongod en una consola y npm run dev en otra

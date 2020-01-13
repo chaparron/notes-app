@@ -30,6 +30,14 @@ Nombramos la carpeta "notes-app" e iniciamos el repositorio "npm init --yes"
 	Creamos main.css dentro de css dentro de public
 	ponemos un degradado de fondo uigradients
 
-->59:14
+->59:14 Creamos un formulario en notes para y ponemos la ruta para poder guardar y postear
+	añadimos que salga el mensaje de error y se pueda cerrar con bootstrap js
+**Para comprobar que se guardan los datos en mongo ponemos en la consola. mongo		use notes-db-app	show collections	db.notes.find().pretty()
+pero nosotros la hemos puesto en mongo atlas así que para comprobarlo entramos ahí
+
+1:25:54
+	
 
 mongod en una consola y npm run dev en otra
+puerto ocupado lsof -i:3000 y luego kill -TERM pid
+

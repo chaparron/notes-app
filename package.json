@@ -4,7 +4,7 @@
   "description": "aplicación completa de fazt con login y crud",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/"
   },
   "repository": {
     "type": "git",

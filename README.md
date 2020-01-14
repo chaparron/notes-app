@@ -35,9 +35,12 @@ Nombramos la carpeta "notes-app" e iniciamos el repositorio "npm init --yes"
 **Para comprobar que se guardan los datos en mongo ponemos en la consola. mongo		use notes-db-app	show collections	db.notes.find().pretty()
 pero nosotros la hemos puesto en mongo atlas así que para comprobarlo entramos ahí
 
+
+-->commit para cambiar la bbdd a mongo atlas, todo guardaba bien pero no se podían ver
+
 1:25:54
 	
 
-mongod en una consola y npm run dev en otra
+mongo en una consola y npm run dev en otra
 puerto ocupado lsof -i:3000 y luego kill -TERM pid
 
